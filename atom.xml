@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Getting focused]]></title>
+  <title><![CDATA[Getting accountable]]></title>
   <link href="http://jcollado.github.io/blog/atom.xml" rel="self"/>
   <link href="http://jcollado.github.io/blog/"/>
-  <updated>2013-12-19T19:55:42+01:00</updated>
+  <updated>2013-12-20T01:11:42+01:00</updated>
   <id>http://jcollado.github.io/blog/</id>
   <author>
     <name><![CDATA[Javier Collado]]></name>
@@ -12,5 +12,118 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Thinkful FEWD]]></title>
+    <link href="http://jcollado.github.io/blog/blog/2013/12/19/thinkful-fewd/"/>
+    <updated>2013-12-19T19:57:21+01:00</updated>
+    <id>http://jcollado.github.io/blog/blog/2013/12/19/thinkful-fewd</id>
+    <content type="html"><![CDATA[<h1>Introduction</h1>
+
+<p>This week I&rsquo;ve completed the FEWD (Front End Web Development) course at
+<a href="http://www.thinkful.com">Thinkful</a>. It&rsquo;s been three months of hard work in
+which I think I&rsquo;ve made good progress in sharpening my web development skills.
+In this post I&rsquo;m sharing my impressions, for those who want to have the opinion
+about the course of a former student before making the decision to take it.</p>
+
+<h1>Who is this course for?</h1>
+
+<p>This is a course that can be taken by absolute beginners to learn html, css and
+javascript from the ground up, but it&rsquo;s also useful to people who, like me,
+already have some experience, but want to improve in any of the technologies
+involved.</p>
+
+<h1>What does the course include?</h1>
+
+<p>The resources available to you as a student are:</p>
+
+<ul>
+<li><p>curriculum: the course content itself. It&rsquo;s made from content already
+available on the internet for free, but structured to introduce new concepts
+progressively. It also includes a set of assignments to ensure student
+comprehension that have to be posted to the community for feedback (see
+below).</p></li>
+<li><p>mentoring sessions: every student has half an hour weekly meetings with a
+mentor that will provide guidance and specific advice in any area the student
+is interested in. This is good not only to get personalized information about
+problems, but also because of the accountability that is generated when you commit
+to finish some assignment for the following week.</p></li>
+<li><p>community: this where you meet other mentors and students like. This is where
+you post the work on the assignments to gather feedback aside from the one
+provided by your mentor. If you&rsquo;re in trouble this is a good place to ask
+because you&rsquo;ll get faster feedback than if you wait for your mentoring
+session. Also, if you help other students, it&rsquo;s a nice mechanism to reinforce
+your own learning since you&rsquo;ll need to take a look at the same kind of
+problem multiple times.</p></li>
+<li><p>office hours: these are daily meetings in which you can also ask a mentor
+face to face about problems you might have and learn from the questions from
+others. As for now, the time isn&rsquo;t very convenient unless you&rsquo;re in the US,
+but still it&rsquo;s a good experience to attend them.</p></li>
+</ul>
+
+
+<h1>What assignments will I work on?</h1>
+
+<p>In case you&rsquo;re curious, the assignments that you&rsquo;ll need to work on are
+(including links to my personal work):</p>
+
+<ul>
+<li><a href="http://jcollado.github.io/GoogleClone">Google clone</a>: reproduce the Google
+homepage.</li>
+<li><a href="http://jcollado.github.io/37signalsClone">37signals clone</a>: reproduce the
+37signals homepage.</li>
+<li><a href="http://jcollado.github.io/HotOrCold">Hot or cold</a>: Number guessing game.</li>
+<li><a href="http://jcollado.github.io/ShoppingList">Shopping list</a>: Todo list
+application.</li>
+<li><a href="http://jcollado.github.io/QuizKnockout">Quiz</a>: Quiz application.</li>
+<li><a href="http://jcollado.github.io/DoIt">API hack</a>: An application that takes
+advantage of public API.</li>
+<li><a href="http://jcollado.github.io">Portfolio</a>: Final project to showcase the work
+done during the course.</li>
+</ul>
+
+
+<h1>What will I learn?</h1>
+
+<p>This almost entirely up to you. The more you involve in the community and the
+more you work in the assignments, the more advanced stuff you&rsquo;ll get from the
+course. Of course, you can get by with just basic html, css and javascript with
+jquery; but if you&rsquo;re curious you can much further than that.</p>
+
+<p>In my case, some of the things that I learned are:</p>
+
+<ul>
+<li>Object oriented javascript</li>
+<li>MVC frameworks</li>
+<li>Data binding libraries</li>
+<li>Template libraries</li>
+<li>CSS preprocessors</li>
+<li>Single page applications</li>
+<li>Responsive design</li>
+</ul>
+
+
+<p>I&rsquo;m not an expert in any of the above, but now I&rsquo;m confident that I can refer
+to the documentation of any library and/or framework in the future and get up
+to speed quickly if I need to.</p>
+
+<h1>Conclusion</h1>
+
+<p>After three months of work, I&rsquo;ve learned quite a few interesting things and
+I&rsquo;ve got a <a href="http://jcollado.github.io">portolio</a> in which I can work on to
+improve in the future which I think is a quite good outcome for the time spent.</p>
+
+<p>What makes the course shine, in my opinion, is that it includes weekly meetings
+with a mentor and access to a community of students that are going through the
+same problems as you are. This is really powerful to create accountability and
+get rid of procrastination to make progress in short time.</p>
+
+<p>In case you&rsquo;re wondering, I feel that I could have learned the same stuff on my
+own, but I don&rsquo;t how long would that have taken me. If you&rsquo;re really good in
+setting your own goals and keeping the motivation to accomplish them and you&rsquo;ve
+got plenty of time to look for good learning resources, then you might not need
+the course, but I&rsquo;d still encourage you to think about taking it.</p>
+]]></content>
+  </entry>
   
 </feed>
