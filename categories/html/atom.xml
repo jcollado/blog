@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Getting accountable]]></title>
-  <link href="http://jcollado.github.io/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Html | Getting accountable]]></title>
+  <link href="http://jcollado.github.io/blog/categories/html/atom.xml" rel="self"/>
   <link href="http://jcollado.github.io/blog/"/>
   <updated>2013-12-20T11:43:25+01:00</updated>
   <id>http://jcollado.github.io/blog/</id>
